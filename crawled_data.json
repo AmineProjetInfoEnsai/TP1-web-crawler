@@ -1,0 +1,497 @@
+[
+    {
+        "url": "https://web-scraping.dev/products",
+        "title": "web-scraping.dev product page 1",
+        "first_paragraph": null,
+        "outgoing_links": [
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/products",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/docs",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/api/graphql",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/products",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/reviews",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/testimonials",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/file-download",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/login",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/cart",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/products?category=apparel",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/products?category=consumables",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/products?category=household",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/product/1",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/product/2",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/product/3",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/product/4",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/product/5",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/products?page=1",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/products?page=2",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/products?page=3",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/products?page=4",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/products?page=5",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/products?page=2",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/docs",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/sitemap.xml",
+                "source_page": "https://web-scraping.dev/products"
+            },
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/products"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/1",
+        "title": "web-scraping.dev product Box of Chocolate Candy",
+        "first_paragraph": "Indulge your sweet tooth with our Box of Chocolate Candy. Each box contains an assortment of rich, flavorful chocolates with a smooth, creamy filling. Choose from a variety of flavors including zesty orange and sweet cherry. Whether you're looking for the perfect gift or just want to treat yourself, our Box of Chocolate Candy is sure to satisfy.",
+        "outgoing_links": [
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/product/1",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/docs",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/api/graphql",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/products",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/reviews",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/testimonials",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/file-download",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/login",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/cart",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/products",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/product/1?variant=orange-small",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/product/1?variant=orange-medium",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/product/1?variant=orange-large",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/product/1?variant=cherry-small",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/product/1?variant=cherry-medium",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/product/1?variant=cherry-large",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/product/16",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/product/7",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/product/4",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/product/27",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/docs",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/sitemap.xml",
+                "source_page": "https://web-scraping.dev/product/1"
+            },
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/product/1"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/16",
+        "title": "web-scraping.dev product Red Energy Potion",
+        "first_paragraph": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
+        "outgoing_links": [
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/product/16",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/docs",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/api/graphql",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/products",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/reviews",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/testimonials",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/file-download",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/login",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/cart",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/products",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/product/16?variant=one",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/product/16?variant=six-pack",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/product/15",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/product/19",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/product/3",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/product/21",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/docs",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/sitemap.xml",
+                "source_page": "https://web-scraping.dev/product/16"
+            },
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/product/16"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/15",
+        "title": "web-scraping.dev product Teal Energy Potion",
+        "first_paragraph": "Experience a surge of vitality with our 'Teal Potion', an exceptional energy drink designed for the gaming community. With its intriguing teal color and a flavor that keeps you asking for more, this potion is your best companion during those long gaming nights. Every sip is an adventure - let the quest begin!",
+        "outgoing_links": [
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/product/15",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/docs",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/api/graphql",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/products",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/reviews",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/testimonials",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/file-download",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/login",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/cart",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/products",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/product/15?variant=one",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/product/15?variant=six-pack",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/product/3",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/product/2",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/product/4",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/product/7",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/docs",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/sitemap.xml",
+                "source_page": "https://web-scraping.dev/product/15"
+            },
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/product/15"
+            }
+        ]
+    },
+    {
+        "url": "https://web-scraping.dev/product/15?variant=one",
+        "title": "web-scraping.dev product Teal Energy Potion",
+        "first_paragraph": "Experience a surge of vitality with our 'Teal Potion', an exceptional energy drink designed for the gaming community. With its intriguing teal color and a flavor that keeps you asking for more, this potion is your best companion during those long gaming nights. Every sip is an adventure - let the quest begin!",
+        "outgoing_links": [
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/product/15?variant=one",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/docs",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/api/graphql",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/products",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/reviews",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/testimonials",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/file-download",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/login",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/cart",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/products",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/product/15?variant=one",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/product/15?variant=six-pack",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/product/11",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/product/4",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/product/23",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/product/16",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/docs",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/sitemap.xml",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            },
+            {
+                "url": "https://web-scraping.dev/",
+                "source_page": "https://web-scraping.dev/product/15?variant=one"
+            }
+        ]
+    }
+]

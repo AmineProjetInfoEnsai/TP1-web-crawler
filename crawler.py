@@ -2,17 +2,26 @@
 TP1 - Développement d'un Web Crawler
 -----------------------------------
 Ce script implémente les bases d’un crawler web en Python.
+L'objectif est de créer un crawler en python qui explor les pages d'un site web en priorisant certaines pages.
 
 Auteur : Raffali Amine
 Date : 12/01/2026
 """
+
+#Liste des librairies utiles, les plus importants pour le TP étant BeautifulSoup et urllib
 from bs4 import BeautifulSoup
+import heapq
 import time
 import urllib.request
 import urllib.robotparser
 from urllib.parse import urlparse, urljoin
+import json
+import argparse
 
-#Nous allons à présent ajuster la politesse pour la suite de notre TP
+
+########### Partie 1: Configuration initiale #############
+
+#Pour commenceer, nous allons ajuster la politesse pour la suite de notre TP
 #En fixant les variables suivantes:
 
 #  1) Nombre maximum de pages à crawler, nous fixons à 50 dans le cadre du TP.
@@ -63,7 +72,8 @@ def fetch_url_content(url: str) -> str | None:
         print(f"[ERREUR] Impossible d'accéder à {url} : {error}")
         return None
 
-# Nous créeons ici une fonction qui permet de vérifier si l'url peut être crawlée ou pas.
+# Nous créeons ici une fonction qui permet de vérifier si l'url peut être crawlée ou pas à l'aide des fichiers
+# robots.txt des sites.
 
 def is_url_allowed_by_robots(url: str, user_agent: str = USER_AGENT) -> bool:
     """
@@ -99,8 +109,6 @@ def is_url_allowed_by_robots(url: str, user_agent: str = USER_AGENT) -> bool:
 
 #Pour extraire le contenu, nous allons procéder en différentes étapes
 
-
-
 #Tout d'abord, il faut s'assurer que le crawler a le droit de parser une page
 # pour cela, on utilise la fonction is_url_allowed_by_robots dans une méthode.
 def can_parse_page(url: str) -> bool:
@@ -120,7 +128,7 @@ def can_parse_page(url: str) -> bool:
     """
     return is_url_allowed_by_robots(url)
 
-#S'il est possible de parser une page, alors nous la parsons avec la fonction suivante,
+#S'il est possible de parser une page, alors nous la parsons avec la fonction suivante.
 # nous nous aiderons de BeautifulSoup.
 def parse_html_content(html_content: str) -> BeautifulSoup:
     """
@@ -212,7 +220,9 @@ def extract_internal_links(
 
 
 ######### Partie 3: Logique de crawling ##########
-import heapq
+
+#On implémente un système de priorité, en fonction de la présence du token "product". on teste simplement
+#si le token est dans l'url.
 def compute_url_priority(url: str) -> int:
     """
     Calcule la priorité d'une URL en fonction de son contenu.
@@ -255,7 +265,7 @@ def crawl_website(start_url: str) -> list[dict]:
     urls_to_visit = []
     crawled_pages_data = []
 
-    # Initialisation de la file de priorité
+    # Initialisation de la file de priorité; on utilise la fonction plus haut.
     start_priority = compute_url_priority(start_url)
     heapq.heappush(urls_to_visit, (start_priority, start_url))
 
@@ -306,10 +316,7 @@ def crawl_website(start_url: str) -> list[dict]:
 
 ####### Partie 4: Stockage des résulats#######
 
-
-#Fonction pour sauvegarder les résultats
-
-import json
+#Fonction pour sauvegarder les résultats dans un fichier json, nous importons json plus haut.
 
 def save_crawled_data_to_json(crawled_data: list[dict], filename: str = "crawled_data.json"):
     """
@@ -334,14 +341,16 @@ def save_crawled_data_to_json(crawled_data: list[dict], filename: str = "crawled
         print(f"[ERREUR] Impossible de sauvegarder le fichier : {e}")
 
 
-####### Partie finale: on test #######
-import argparse
+####### Partie finale: le test et (éventuellement) des optimisations #######
+# Rappelons qu'il faut crawler un site web qui contient des pages produits. C'est une première étape avant une indexation
+#demain
+
 def main():
     """
     Point d'entrée principal du crawler.
     Prend en entrée :
     - URL de départ
-    - Nombre maximum de pages à visiter
+    - Nombre maximum de pages à visiter (j'ai pris le choix de tester avec 5 dans mon environnement local)
     Produit un fichier JSON en sortie.
     """
     parser = argparse.ArgumentParser(description="Web Crawler TP1")
@@ -363,3 +372,6 @@ def main():
 
     print(f"{len(crawled_data)} pages crawlées.")
     save_crawled_data_to_json(crawled_data)
+
+if __name__ == "__main__":
+    main()
