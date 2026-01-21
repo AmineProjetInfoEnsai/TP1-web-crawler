@@ -5,19 +5,7 @@
     "filtered_documents": 21,
     "results": [
       {
-        "document_id": "https://web-scraping.dev/product/25",
-        "score": 3.864082596710806
-      },
-      {
         "document_id": "https://web-scraping.dev/product/13?variant=orange-large",
-        "score": 3.864082596710806
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/13?variant=cherry-small",
-        "score": 3.864082596710806
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/25?variant=cherry-small",
         "score": 3.864082596710806
       },
       {
@@ -25,23 +13,7 @@
         "score": 3.864082596710806
       },
       {
-        "document_id": "https://web-scraping.dev/product/1?variant=cherry-large",
-        "score": 3.864082596710806
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/25?variant=orange-small",
-        "score": 3.864082596710806
-      },
-      {
         "document_id": "https://web-scraping.dev/product/13?variant=orange-small",
-        "score": 3.864082596710806
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/1?variant=cherry-medium",
-        "score": 3.864082596710806
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/1?variant=orange-medium",
         "score": 3.864082596710806
       },
       {
@@ -49,24 +21,32 @@
         "score": 3.864082596710806
       },
       {
-        "document_id": "https://web-scraping.dev/product/25?variant=cherry-medium",
-        "score": 3.4586174886026413
+        "document_id": "https://web-scraping.dev/product/1?variant=orange-medium",
+        "score": 3.864082596710806
       },
       {
-        "document_id": "https://web-scraping.dev/product/1?variant=orange-small",
-        "score": 3.4586174886026413
+        "document_id": "https://web-scraping.dev/product/13?variant=cherry-small",
+        "score": 3.864082596710806
       },
       {
-        "document_id": "https://web-scraping.dev/product/13?variant=cherry-large",
-        "score": 3.4586174886026413
+        "document_id": "https://web-scraping.dev/product/1?variant=cherry-large",
+        "score": 3.864082596710806
       },
       {
-        "document_id": "https://web-scraping.dev/product/1?variant=orange-large",
-        "score": 3.4586174886026413
+        "document_id": "https://web-scraping.dev/product/25",
+        "score": 3.864082596710806
       },
       {
-        "document_id": "https://web-scraping.dev/product/13",
-        "score": 3.4586174886026413
+        "document_id": "https://web-scraping.dev/product/25?variant=cherry-small",
+        "score": 3.864082596710806
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/25?variant=orange-small",
+        "score": 3.864082596710806
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/1?variant=cherry-medium",
+        "score": 3.864082596710806
       },
       {
         "document_id": "https://web-scraping.dev/product/25?variant=cherry-large",
@@ -77,15 +57,35 @@
         "score": 3.4586174886026413
       },
       {
-        "document_id": "https://web-scraping.dev/product/1?variant=cherry-small",
-        "score": 3.4586174886026413
-      },
-      {
         "document_id": "https://web-scraping.dev/product/13?variant=cherry-medium",
         "score": 3.4586174886026413
       },
       {
+        "document_id": "https://web-scraping.dev/product/1?variant=orange-large",
+        "score": 3.4586174886026413
+      },
+      {
         "document_id": "https://web-scraping.dev/product/13?variant=orange-medium",
+        "score": 3.4586174886026413
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/13?variant=cherry-large",
+        "score": 3.4586174886026413
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/25?variant=cherry-medium",
+        "score": 3.4586174886026413
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/1?variant=orange-small",
+        "score": 3.4586174886026413
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/13",
+        "score": 3.4586174886026413
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/1?variant=cherry-small",
         "score": 3.4586174886026413
       }
     ]
@@ -100,15 +100,15 @@
         "score": 6.061202581596687
       },
       {
-        "document_id": "https://web-scraping.dev/product/17",
-        "score": 5.838059030282477
-      },
-      {
         "document_id": "https://web-scraping.dev/product/17?variant=six-pack",
         "score": 5.838059030282477
       },
       {
         "document_id": "https://web-scraping.dev/product/5",
+        "score": 5.838059030282477
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/17",
         "score": 5.838059030282477
       },
       {
@@ -120,6 +120,10 @@
         "score": 5.5503769578306965
       },
       {
+        "document_id": "https://web-scraping.dev/product/4",
+        "score": 4.838997621591355
+      },
+      {
         "document_id": "https://web-scraping.dev/product/4?variant=one",
         "score": 4.838997621591355
       },
@@ -128,11 +132,7 @@
         "score": 4.838997621591355
       },
       {
-        "document_id": "https://web-scraping.dev/product/4",
-        "score": 4.838997621591355
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/6",
+        "document_id": "https://web-scraping.dev/product/18?variant=one",
         "score": 4.5389976215913554
       },
       {
@@ -140,35 +140,11 @@
         "score": 4.5389976215913554
       },
       {
-        "document_id": "https://web-scraping.dev/product/18?variant=one",
+        "document_id": "https://web-scraping.dev/product/6",
         "score": 4.5389976215913554
       },
       {
-        "document_id": "https://web-scraping.dev/product/14?variant=six-pack",
-        "score": 4.4335325134831916
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/15?variant=six-pack",
-        "score": 4.4335325134831916
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/15?variant=one",
-        "score": 4.4335325134831916
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/3?variant=six-pack",
-        "score": 4.4335325134831916
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/26?variant=six-pack",
-        "score": 4.4335325134831916
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/27?variant=one",
-        "score": 4.4335325134831916
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/3",
+        "document_id": "https://web-scraping.dev/product/26",
         "score": 4.4335325134831916
       },
       {
@@ -176,19 +152,7 @@
         "score": 4.4335325134831916
       },
       {
-        "document_id": "https://web-scraping.dev/product/14?variant=one",
-        "score": 4.4335325134831916
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/15",
-        "score": 4.4335325134831916
-      },
-      {
         "document_id": "https://web-scraping.dev/product/2?variant=six-pack",
-        "score": 4.4335325134831916
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/14",
         "score": 4.4335325134831916
       },
       {
@@ -196,11 +160,19 @@
         "score": 4.4335325134831916
       },
       {
-        "document_id": "https://web-scraping.dev/product/26",
+        "document_id": "https://web-scraping.dev/product/15?variant=one",
         "score": 4.4335325134831916
       },
       {
-        "document_id": "https://web-scraping.dev/product/2?variant=one",
+        "document_id": "https://web-scraping.dev/product/3",
+        "score": 4.4335325134831916
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/14",
+        "score": 4.4335325134831916
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/14?variant=six-pack",
         "score": 4.4335325134831916
       },
       {
@@ -208,7 +180,19 @@
         "score": 4.4335325134831916
       },
       {
-        "document_id": "https://web-scraping.dev/product/16?variant=six-pack",
+        "document_id": "https://web-scraping.dev/product/15?variant=six-pack",
+        "score": 4.4335325134831916
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/26?variant=six-pack",
+        "score": 4.4335325134831916
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/3?variant=six-pack",
+        "score": 4.4335325134831916
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/27?variant=one",
         "score": 4.4335325134831916
       },
       {
@@ -216,19 +200,35 @@
         "score": 4.4335325134831916
       },
       {
-        "document_id": "https://web-scraping.dev/product/18",
-        "score": 4.133532513483191
+        "document_id": "https://web-scraping.dev/product/16?variant=six-pack",
+        "score": 4.4335325134831916
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/15",
+        "score": 4.4335325134831916
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/14?variant=one",
+        "score": 4.4335325134831916
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/2?variant=one",
+        "score": 4.4335325134831916
       },
       {
         "document_id": "https://web-scraping.dev/product/6?variant=one",
         "score": 4.133532513483191
       },
       {
-        "document_id": "https://web-scraping.dev/product/4?variant=six-pack",
-        "score": 3.7403853329232457
+        "document_id": "https://web-scraping.dev/product/18",
+        "score": 4.133532513483191
       },
       {
         "document_id": "https://web-scraping.dev/product/28?variant=one",
+        "score": 3.7403853329232457
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/4?variant=six-pack",
         "score": 3.7403853329232457
       },
       {
@@ -273,26 +273,6 @@
         "score": 4.4517646691625865
       },
       {
-        "document_id": "https://web-scraping.dev/product/4?variant=six-pack",
-        "score": 4.4335325134831916
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/14?variant=six-pack",
-        "score": 4.4335325134831916
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/15?variant=six-pack",
-        "score": 4.4335325134831916
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/28?variant=six-pack",
-        "score": 4.4335325134831916
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/3?variant=six-pack",
-        "score": 4.4335325134831916
-      },
-      {
         "document_id": "https://web-scraping.dev/product/26?variant=six-pack",
         "score": 4.4335325134831916
       },
@@ -301,11 +281,31 @@
         "score": 4.4335325134831916
       },
       {
-        "document_id": "https://web-scraping.dev/product/27?variant=six-pack",
+        "document_id": "https://web-scraping.dev/product/3?variant=six-pack",
+        "score": 4.4335325134831916
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/28?variant=six-pack",
         "score": 4.4335325134831916
       },
       {
         "document_id": "https://web-scraping.dev/product/16?variant=six-pack",
+        "score": 4.4335325134831916
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/4?variant=six-pack",
+        "score": 4.4335325134831916
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/14?variant=six-pack",
+        "score": 4.4335325134831916
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/27?variant=six-pack",
+        "score": 4.4335325134831916
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/15?variant=six-pack",
         "score": 4.4335325134831916
       },
       {
@@ -328,19 +328,11 @@
         "score": 5.943524138390641
       },
       {
-        "document_id": "https://web-scraping.dev/product/25?variant=cherry-large",
-        "score": 5.5380590302824775
-      },
-      {
         "document_id": "https://web-scraping.dev/product/25?variant=cherry-medium",
         "score": 5.5380590302824775
       },
       {
-        "document_id": "https://web-scraping.dev/product/13?variant=cherry-large",
-        "score": 5.5380590302824775
-      },
-      {
-        "document_id": "https://web-scraping.dev/product/1?variant=cherry-small",
+        "document_id": "https://web-scraping.dev/product/25?variant=cherry-large",
         "score": 5.5380590302824775
       },
       {
@@ -348,8 +340,12 @@
         "score": 5.5380590302824775
       },
       {
-        "document_id": "https://web-scraping.dev/product/1?variant=cherry-medium",
-        "score": 5.250376957830696
+        "document_id": "https://web-scraping.dev/product/1?variant=cherry-small",
+        "score": 5.5380590302824775
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/13?variant=cherry-large",
+        "score": 5.5380590302824775
       },
       {
         "document_id": "https://web-scraping.dev/product/13?variant=cherry-small",
@@ -357,6 +353,10 @@
       },
       {
         "document_id": "https://web-scraping.dev/product/25?variant=cherry-small",
+        "score": 5.250376957830696
+      },
+      {
+        "document_id": "https://web-scraping.dev/product/1?variant=cherry-medium",
         "score": 5.250376957830696
       }
     ]

@@ -1,0 +1,782 @@
+{
+  "https://web-scraping.dev/products": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/product/1": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/16": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/10": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/10?variant=blue-5": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/10?variant=blue-6": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/10?variant=red-5": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/10?variant=red-6": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/11": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/11?variant=black40": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/11?variant=black41": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/11?variant=black42": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/11?variant=white40": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/11?variant=white41": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/11?variant=white42": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/12": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/12?variant=darkgrey-medium": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/12?variant=darkgrey-small": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/12?variant=grey-medium": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/12?variant=grey-small": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/12?variant=pink-medium": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/12?variant=pink-small": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/12?variant=sand-medium": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/12?variant=sand-small": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/13": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/13?variant=cherry-large": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/13?variant=cherry-medium": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/13?variant=cherry-small": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/13?variant=orange-large": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/13?variant=orange-medium": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/13?variant=orange-small": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/14": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/14?variant=one": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/14?variant=six-pack": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/15": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/15?variant=one": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/15?variant=six-pack": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/16?variant=one": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/16?variant=six-pack": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/17": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/17?variant=one": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/17?variant=six-pack": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/18": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/18?variant=one": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/18?variant=six-pack": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/19": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/19?variant=6": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/19?variant=7": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/19?variant=8": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/19?variant=9": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/1?variant=cherry-large": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/1?variant=cherry-medium": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/1?variant=cherry-small": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/1?variant=orange-large": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/1?variant=orange-medium": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/1?variant=orange-small": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/2": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/20": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/20?variant=beige-6": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/20?variant=beige-7": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/20?variant=beige-8": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/20?variant=blue-9": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/21": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/21?variant=10": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/21?variant=11": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/21?variant=12": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/21?variant=9": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/22": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/22?variant=blue-5": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/22?variant=blue-6": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/22?variant=red-5": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/22?variant=red-6": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/23": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/23?variant=black40": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/23?variant=black41": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/23?variant=black42": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/23?variant=white40": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/23?variant=white41": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/23?variant=white42": {
+    "review_count": 5,
+    "average_rating": 4.4,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/24": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/24?variant=darkgrey-medium": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/24?variant=darkgrey-small": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/24?variant=grey-medium": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/24?variant=grey-small": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/24?variant=pink-medium": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/24?variant=pink-small": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/24?variant=sand-medium": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/24?variant=sand-small": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/25": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/25?variant=cherry-large": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/25?variant=cherry-medium": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/25?variant=cherry-small": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/25?variant=orange-large": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/25?variant=orange-medium": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/25?variant=orange-small": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/26": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/26?variant=one": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/26?variant=six-pack": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/27": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/27?variant=one": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/27?variant=six-pack": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/28": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/28?variant=one": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/28?variant=six-pack": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/2?variant=one": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/2?variant=six-pack": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/3": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/3?variant=one": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/3?variant=six-pack": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/4": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/4?variant=one": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/4?variant=six-pack": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/5": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/5?variant=one": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/5?variant=six-pack": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/6": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/6?variant=one": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/6?variant=six-pack": {
+    "review_count": 4,
+    "average_rating": 4.75,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/7": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/7?variant=6": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/7?variant=7": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/7?variant=8": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/7?variant=9": {
+    "review_count": 5,
+    "average_rating": 4.6,
+    "last_rating": 5.0
+  },
+  "https://web-scraping.dev/product/8": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/8?variant=beige-6": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/8?variant=beige-7": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/8?variant=beige-8": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/8?variant=blue-9": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/9": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/9?variant=10": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/9?variant=11": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/9?variant=12": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/product/9?variant=9": {
+    "review_count": 5,
+    "average_rating": 4.2,
+    "last_rating": 4.0
+  },
+  "https://web-scraping.dev/products?category=apparel": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=apparel&page=1": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=apparel&page=2": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=apparel&page=3": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=apparel&page=4": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=apparel&page=5": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=consumables": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=consumables&page=1": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=consumables&page=2": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=consumables&page=3": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=consumables&page=4": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=consumables&page=5": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=household": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=household&page=1": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=household&page=2": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=household&page=3": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=household&page=4": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?category=household&page=5": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?page=1": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?page=2": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?page=3": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?page=4": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  },
+  "https://web-scraping.dev/products?page=5": {
+    "review_count": 0,
+    "average_rating": null,
+    "last_rating": null
+  }
+}
