@@ -45,14 +45,10 @@ Le script génère **exactement 5 index**, chacun sauvegardé dans un fichier JS
 
 ### 1. `title_index.json` – Index positionnel du titre
 
-Structure :
-```json
-{
-  "token": {
-    "url_1": [position1, position2],
-    "url_2": [position1]
-  }
-}
+
+
+**Structure :**
+
 
 - Le texte du titre est tokenisé par espace.
 
@@ -90,7 +86,7 @@ Structure :
 
     Chaque clé correspond à une marque, associée à la liste des URLs des produits correspondants.
 
-4. origin_index.json – Index inversé sur l’origine du produit
+### 4.  origin_index.json – Index inversé sur l’origine du produit
 
 Structure identique à l’index de marque :
 
@@ -102,7 +98,7 @@ Structure identique à l’index de marque :
 
     Elle est normalisée de la même manière que la marque.
 
-5. reviews_index.json – Index des reviews (non inversé)
+### 5. reviews_index.json – Index des reviews (non inversé)
 
 Structure :
 
@@ -124,7 +120,7 @@ Pour chaque produit, on stocke :
 
     la dernière note disponible.
 
-Choix techniques
+## Choix techniques
 
 1) Tokenisation
 
@@ -154,7 +150,7 @@ Choix techniques
 
     Le traitement est volontairement simple pour rester conforme à la consigne.
 
-Fonctionnalités supplémentaires
+## Fonctionnalités supplémentaires
 
 En plus des exigences minimales :
 
@@ -166,7 +162,7 @@ En plus des exigences minimales :
 
     structure des index directement exploitable pour un moteur de recherche.
 
-Comment lancer le script
+## Comment lancer le script
 
     Placer le fichier products.jsonl dans le même dossier que le script python
 
